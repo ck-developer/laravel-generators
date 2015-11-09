@@ -14,8 +14,11 @@
   },
   "autoload": {
     "psr-4": {
-      "Ck\\Generators\\": "src/"
+      "Mwc\\Generators\\": "src/"
     }
   },
-  "minimum-stability": "stable"
+  "minimum-stability": "stable",
+  "require-dev": {
+    "phpspec/phpspec": "^2.3"
+  }
 }
