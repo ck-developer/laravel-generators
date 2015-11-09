@@ -1,0 +1,21 @@
+{
+  "name": "ck/laravel-generators",
+  "description": "laravel 5 generators",
+  "authors": [
+    {
+      "name": "claude khedhiri",
+      "email": "claude@madewithcaffeine.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.5.9",
+    "illuminate/support": "5.1.*",
+    "fabpot/php-cs-fixer": "@stable"
+  },
+  "autoload": {
+    "psr-4": {
+      "Ck\\Generators\\": "src/"
+    }
+  },
+  "minimum-stability": "stable"
+}
