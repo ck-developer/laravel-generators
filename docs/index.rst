@@ -5,4 +5,6 @@
 
 Welcome to Laravel Generator's documentation!
 ==============================================
-[![Build Status](https://travis-ci.org/ck-developer/laravel-generators.svg?branch=dev-master)](https://travis-ci.org/ck-developer/laravel-generators)
+
+.. image:: https://travis-ci.org/ck-developer/laravel-generators.svg?branch=dev-master
+    :target: https://travis-ci.org/ck-developer/laravel-generators
