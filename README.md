@@ -1,3 +1,1 @@
-[![VersionEye](https://img.shields.io/versioneye/d/ruby/rails.svg)](https://github.com/ck-developer/laravel-generators)
-
-[![Build Status](https://travis-ci.org/ck-developer/laravel-generators.svg?branch=dev-master)](https://travis-ci.org/ck-developer/laravel-generators)
+[![Build Status](https://travis-ci.org/ck-developer/laravel-generators.svg?branch=dev-master)](https://travis-ci.org/ck-developer/laravel-generators) [![Coverage Status](https://coveralls.io/repos/ck-developer/laravel-generators/badge.svg?branch=dev-master&service=github)](https://coveralls.io/github/ck-developer/laravel-generators?branch=dev-master) [![VersionEye](https://img.shields.io/versioneye/d/ruby/rails.svg)](https://github.com/ck-developer/laravel-generators)
