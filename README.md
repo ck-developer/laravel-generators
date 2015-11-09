@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/ck-developer/laravel-generators.svg?branch=dev-master)](https://travis-ci.org/ck-developer/laravel-generators)
