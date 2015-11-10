@@ -12,13 +12,14 @@
     "illuminate/support": "5.1.*",
     "fabpot/php-cs-fixer": "@stable"
   },
+  "require-dev": {
+    "phpspec/phpspec": "^2.3",
+    "satooshi/php-coveralls": "^0.6.1"
+  },
   "autoload": {
     "psr-4": {
       "Mwc\\Generators\\": "src/"
     }
   },
-  "minimum-stability": "stable",
-  "require-dev": {
-    "phpspec/phpspec": "^2.3"
-  }
+  "minimum-stability": "stable"
 }
