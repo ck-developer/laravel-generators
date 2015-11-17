@@ -1,3 +1,9 @@
+suites:
+    default:
+        namespace: Mwc\Generators
+        psr4_prefix: Mwc\Generators
+        src_path: %paths.config%/src
+        spec_path: %paths.config%
 code_coverage:
   format:
     - clover
